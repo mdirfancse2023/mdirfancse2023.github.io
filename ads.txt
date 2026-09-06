@@ -1,0 +1,2 @@
+# Google AdSense Authorized Digital Sellers (ads.txt) for virtualgyans.me
+google.com, pub-6945590741298253, DIRECT, f08c47fec0942fa0
