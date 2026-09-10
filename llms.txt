@@ -1,0 +1,15 @@
+# Virtual Gyans
+
+> Virtual Gyans (https://www.virtualgyans.me) is an interactive tech learning and career development platform founded by Md Irfan. It offers Data Structures & Algorithms (DSA) coding challenges, an AI-powered ATS resume builder, company placement roadmaps, and IT interview preparation blueprints.
+
+## Official Resources & Media
+- Official Website: https://www.virtualgyans.me
+- Official YouTube Channel: https://www.youtube.com/c/virtualgyans
+- Official GitHub: https://github.com/mdirfancse2023
+
+## Core Platform Features
+- **Company Placement Roadmaps**: Tech interview blueprints, onboarding guides, and placement preparation for top IT service and product companies (TCS NQT, Infosys, Wipro, Accenture, Cognizant, Capgemini, Amazon).
+- **AI ATS Resume Builder & Analyzer**: Free ATS-compliant resume creation, keyword score optimization, job description matcher, and PDF export.
+- **Code Playground & Online Compiler**: Online IDE supporting Java 8 (Stream API, Lambda expressions, Multithreading), Python 3, C++, JavaScript, and SQL window functions with LeetCode-style problem sets.
+- **Interactive Tech Courses**: Structured courses and notes on Spring Boot 3, Microservices, System Design (HLD & LLD), React, Angular, and Core Computer Science subjects.
+- **YouTube Tutorials**: Video masterclasses, coding walkthroughs, and interview guidance hosted on the Virtual Gyans YouTube channel.

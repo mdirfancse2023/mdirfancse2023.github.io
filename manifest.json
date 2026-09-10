@@ -1,0 +1,21 @@
+{
+  "name": "Virtual Gyans",
+  "short_name": "Virtual Gyans",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#38bdf8",
+  "description": "Virtual Gyans | Tech Learning, DSA & Career Platform",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
